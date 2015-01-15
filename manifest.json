@@ -1,0 +1,9 @@
+{
+  "fetch": "git@github.com:uscauv/",
+  "projects": [
+    {
+      "path": "seabee_driver",
+      "name": "seabee_driver"
+    }
+  ]
+}
