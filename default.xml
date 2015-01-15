@@ -1,0 +1,5 @@
+<manifest>
+  <remote name="github" fetch=".." />
+  <default revision="refs/heads/master" remote="github" sync-j="4" />
+  <project path="seabee_driver" name="seabee_driver" />
+</manifest>
