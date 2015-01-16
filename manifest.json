@@ -3,7 +3,8 @@
   "projects": [
     {
       "path": "seabee_driver",
-      "name": "seabee_driver"
+      "name": "seabee_driver",
+      "branch": "master"
     }
   ]
 }
