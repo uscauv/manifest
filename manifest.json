@@ -8,6 +8,10 @@
     {
       "name": "mission_control",
       "path": "mission_control"
+    },
+    {
+      "name": "actions_direction_marker_align",
+      "path": "actions/direction_marker_align"
     }
   ]
 }
