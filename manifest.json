@@ -12,6 +12,18 @@
     {
       "name": "actions_direction_marker_align",
       "path": "actions/direction_marker_align"
+    },
+    {
+      "name": "vision_direction_marker_detector",
+      "path": "vision/direction_marker_detector"
+    },
+    {
+      "name": "vision_buoy_detector",
+      "path": "vision/buoy_detector"
+    },
+    {
+      "name": "vision_gate_detector",
+      "path": "vision/gate_detector"
     }
   ]
 }
