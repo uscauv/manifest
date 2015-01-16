@@ -3,8 +3,11 @@
   "projects": [
     {
       "path": "seabee_driver",
-      "name": "seabee_driver",
-      "branch": "master"
+      "name": "seabee_driver"
+    },
+    {
+      "path": "mission_control",
+      "name": "mission_control"
     }
   ]
 }
