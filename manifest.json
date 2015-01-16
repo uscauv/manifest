@@ -5,10 +5,6 @@
       "path": "seabee_driver",
       "name": "seabee_driver",
       "branch": "master"
-    },
-    {
-      "path": "tools",
-      "name": "tools"
     }
   ]
 }
