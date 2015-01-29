@@ -24,6 +24,10 @@
     {
       "name": "vision_gate_detector",
       "path": "vision/gate_detector"
+    },
+    {
+      "name": "software-wiki.wiki",
+      "path": "wiki"
     }
   ]
 }
