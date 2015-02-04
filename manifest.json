@@ -14,6 +14,10 @@
       "path": "actions/direction_marker_align"
     },
     {
+      "name": "vision_common",
+      "path": "vision/vision_common"
+    },
+    {
       "name": "vision_direction_marker_detector",
       "path": "vision/direction_marker_detector"
     },
