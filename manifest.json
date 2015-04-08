@@ -6,6 +6,10 @@
       "path": "seabee_driver"
     },
     {
+      "name": "base_controller",
+      "path": "base_controller"
+    },
+    {
       "name": "mission_control",
       "path": "mission_control"
     },
