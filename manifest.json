@@ -36,6 +36,18 @@
     {
       "name": "software-wiki.wiki",
       "path": "wiki"
+    },
+    {
+      "name": "seabee_imu_driver",
+      "path": "seabee_imu_driver"
+    },
+    {
+      "name": "seabee_3dnav",
+      "path": "seabee_3dnav"
+    },
+    {
+      "name": "manual_control",
+      "path": "manual_control"
     }
   ]
 }
