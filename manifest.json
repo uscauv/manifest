@@ -48,6 +48,10 @@
     {
       "name": "manual_control",
       "path": "manual_control"
+    },
+    {
+      "name": "miscellaneous",
+      "path": "miscellaneous"
     }
   ]
 }
