@@ -52,6 +52,10 @@
     {
       "name": "miscellaneous",
       "path": "miscellaneous"
+    },
+    {
+      "name": "seabee_testing",
+      "path": "seabee_testing"
     }
   ]
 }
