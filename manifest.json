@@ -56,6 +56,10 @@
     {
       "name": "seabee_testing",
       "path": "seabee_testing"
+    },
+    {
+      "name": "intro_exercise",
+      "path": "intro_exercise"
     }
   ]
 }
